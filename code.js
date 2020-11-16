@@ -1,5 +1,5 @@
 var likesText = "Like(s): "; // the original like text
-var likeNum = 0; // the number of origial likes
+var likeNum = 0; // the number of original likes
 var newComments; // the new comments input from the user
 var allCommentsText = "OMG soooo cute!"; // the text of the original comments
 
